@@ -1,0 +1,29 @@
+{
+  "name": "buyandsell",
+  "version": "1.0.0",
+  "description": "Buy and sell app for users for paintings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunsookim1/BuyAndSell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eunsookim1/BuyAndSell/issues"
+  },
+  "homepage": "https://github.com/eunsookim1/BuyAndSell#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "^2.8.8"
+  }
+}
